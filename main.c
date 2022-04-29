@@ -1,7 +1,4 @@
-
-
 #include <stdio.h>
-
 int main()
 {
     double a,b;
@@ -39,5 +36,6 @@ int main()
             break;
 
     }
+    return 0;
 
 }
